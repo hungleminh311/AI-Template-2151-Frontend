@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "eventDescription": "Bird ticket get 15% discount. GeneriCon 2024 is on June 7 – 9 in Denver.",
+        "linkText": "Get your ticket"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Unlock Sophisticated Banking Solutions Tailored for Your Success",
+        "title": "Elevate Your Financial Future"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Unlock Sophisticated Banking Solutions Tailored for Your Success",
+        "title": "Elevate Your Financial Future"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Unlock Sophisticated Banking Solutions Tailored for Your Success",
+        "title": "Elevate Your Financial Future"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Unlock Sophisticated Banking Solutions Tailored for Your Success",
+        "title": "Elevate Your Financial Future"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Unlock Sophisticated Banking Solutions Tailored for Your Success",
+        "title": "Elevate Your Financial Future"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Unlock Sophisticated Banking Solutions Tailored for Your Success",
+        "title": "Elevate Your Financial Future"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Unlock Sophisticated Banking Solutions Tailored for Your Success",
+        "title": "Elevate Your Financial Future"
+      }
+    }
+  ],
+  "theme": "corporate",
+  "font": "",
+  "title": "Elevate Your Financial Future",
+  "subtitle": "Unlock Sophisticated Banking Solutions Tailored for Your Success"
+}
